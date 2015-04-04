@@ -1,3 +1,6 @@
+# PLEASE USE THE NON_ALLOY BRANCH, WHERE MY ACTUAL CONTRIBUTIONS ARE IN.
+
+
 # Promises Titanium Example [![Build Status](https://travis-ci.org/sukima/promises-titanium.png?branch=master)](https://travis-ci.org/sukima/promises-titanium)
 
 An example on using promises in a Titanium application.

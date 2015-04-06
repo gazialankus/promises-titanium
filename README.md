@@ -1,4 +1,4 @@
-# PLEASE USE THE NON_ALLOY BRANCH, WHERE MY ACTUAL CONTRIBUTIONS ARE IN.
+# PLEASE USE THE [NON_ALLOY BRANCH](https://github.com/gazialankus/promises-titanium/tree/non_alloy), WHERE MY ACTUAL CONTRIBUTIONS ARE IN.
 
 
 # Promises Titanium Example [![Build Status](https://travis-ci.org/sukima/promises-titanium.png?branch=master)](https://travis-ci.org/sukima/promises-titanium)
